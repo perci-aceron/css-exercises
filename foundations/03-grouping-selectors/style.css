@@ -1,0 +1,31 @@
+
+div {
+    max-width: 90rem;
+    width: 30%;
+    margin:  0 auto;
+    background: antiquewhite;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.blackcolor{ 
+    background: black;
+    color: white;
+    padding: 10px;
+    border-style: outset;
+    border-color: red;
+    cursor: pointer;
+}
+.yellowcolor{ 
+    background: yellow;
+    padding: 10px;
+    border-style: outset;
+    border-color: black;
+    cursor: pointer;
+}
+.btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
